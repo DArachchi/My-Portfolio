@@ -1,0 +1,23 @@
+header {
+    background-image: url('../img/headerbackground.jpg');
+}
+
+.intro-text {
+}
+
+.name {
+    color: #FFFFFF;
+}
+
+.profile-container {
+    bottom: 50px;
+    position: relative;
+}
+
+.profile-image {
+    border-radius: 50%;
+}
+
+.skills {
+    color: #FFFFFF; 
+}
