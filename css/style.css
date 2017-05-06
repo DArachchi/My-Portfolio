@@ -1,13 +1,6 @@
-.close-modal {
-    top: 100px;
-}
 header {
     background-image: url('../img/headerbackground.jpg');
     background-size: cover;
-}
-
-.name {
-    color: #FFFFFF;
 }
 
 .profile-container {
@@ -17,8 +10,4 @@ header {
 
 .profile-image {
     border-radius: 50%;
-}
-
-.skills {
-    color: #FFFFFF; 
 }
