@@ -3,9 +3,7 @@
 }
 header {
     background-image: url('../img/headerbackground.jpg');
-}
-
-.intro-text {
+    background-size: cover;
 }
 
 .name {
